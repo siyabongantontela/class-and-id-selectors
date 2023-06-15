@@ -1,0 +1,21 @@
+html{
+    font-family: sans-serif;
+}
+.odd-boy{
+    background-color: #ebacac;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first-id{
+    color: #1010ff;
+    font-size: 36px;
+}
+
+#second-id, .fonty{
+    font-size: 24px;
+}
+
+#second-id{
+    background-color: #42eb18;
+    font-weight: bold;
+}
